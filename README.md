@@ -154,4 +154,4 @@ Prioritize **small and large advertisers**, investigate the weaker medium-compan
 
 ---
 
-![Project Preview](twitter_ab_testing.png)
+![Project Preview](twitter_overview.png)
